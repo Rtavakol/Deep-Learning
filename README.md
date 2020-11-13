@@ -1,8 +1,11 @@
 # Deep Learning
 
-An example of readme file. Here is a list of things to do:
-## Todo 1
-### Todo 2
-#### Todo 3
+This repository contains my deep learning notebooks. 
+
+## Image Classification
+[Number Sign Recognition - Binary]() \
+[Number Sign Recognition - Categorical]()\
+[Fashion Image Recognition]()\
+[Face Recognition]()
 
  
