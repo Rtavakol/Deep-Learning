@@ -2,7 +2,8 @@
 
 This repository contains my deep learning notebooks. 
 
-* [Number Sign Recognition](https://github.com/Rtavakol/Bootcamp/)
+[Number Sign Recognition - Binary]()
+[Number Sign Recognition - Categorical]()
 [Fashion Image Recognition]()
 [Face Recognition]()
 
