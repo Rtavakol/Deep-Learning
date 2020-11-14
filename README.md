@@ -8,7 +8,7 @@ This repository contains my deep learning notebooks.
 [Fashion Image Recognition -  Categorical](https://github.com/Rtavakol/Deep-Learning/blob/master/Fashion%20Image%20Recognition/Image%20Classification.ipynb)\
 [Face Recognition - Binary](https://github.com/Rtavakol/Deep-Learning/blob/master/Happy%20or%20Sad/Happy%20or%20sad.ipynb)\
 
-## Image Classification
+## Image Generation
 [Art Generation]()
 
  
